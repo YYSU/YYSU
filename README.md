@@ -39,8 +39,11 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws)
 
-## My GitHub Stats
+<details>
+  <summary>Some of my Github Stats :computer:</summary>
+
 <p align="center">
 <img height="180em" src="https://github-readme-stats-seven-sandy.vercel.app/api?username=YYSU&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
 </p>
+</details>
 
