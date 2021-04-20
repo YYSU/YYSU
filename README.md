@@ -4,13 +4,6 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 [![Linkedin Badge](https://img.shields.io/badge/-yysu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yysu/)](https://www.linkedin.com/in/yysu/) 
 [![Medium Badge](https://img.shields.io/badge/-@yysu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yysu/)](https://medium.com/@yysu)
 
-
-<br />
-
-
-
-<br />
-
 ## Languages and Tools
 
 **Frontend:**
@@ -30,8 +23,7 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 ![K8s](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-
-
+<!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
@@ -39,6 +31,7 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+-->
 
 **My GitHub Stats**
 <p align="center">
