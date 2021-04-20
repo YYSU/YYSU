@@ -4,7 +4,7 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 [![Linkedin Badge](https://img.shields.io/badge/-yysu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yysu/)](https://www.linkedin.com/in/yysu/) 
 [![Medium Badge](https://img.shields.io/badge/-@yysu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yysu/)](https://medium.com/@yysu)
 
----
+
 
 ## Languages and Tools
 
@@ -26,7 +26,7 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 ![K8s](https://img.shields.io/badge/-kubernetes-%231a202c?style=flat-square&logo=kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FCA121?style=flat-square&logo=amazon-aws)
 
----
+
 
 ## AWS Certificated
 
