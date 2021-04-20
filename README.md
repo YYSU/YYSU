@@ -21,7 +21,7 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![K8s](https://img.shields.io/badge/-kubernetes-black?style=flat-square&logo=kubernetes)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=flat-square&logo=amazon-aws)
 
 <!--
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
@@ -32,8 +32,13 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 -->
+## AWS Certificated
 
-**My GitHub Stats**
+![AWS Certified SysOps Administrator – Associate](https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20Associate-232F3E?style=flat-square&logo=amazon-aws)
+![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-232F3E?style=flat-square&logo=amazon-aws)
+![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws)
+
+## My GitHub Stats
 <p align="center">
 <img height="180em" src="https://github-readme-stats-seven-sandy.vercel.app/api?username=YYSU&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=onedark" />
 </p>
