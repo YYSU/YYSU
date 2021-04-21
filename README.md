@@ -61,6 +61,10 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 ## Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [職場新鮮人 — 於 AWS Cloud Support Engineer 就職一年感想](https://yysu.medium.com/%E8%81%B7%E5%A0%B4%E6%96%B0%E9%AE%AE%E4%BA%BA-%E6%96%BC-aws-cloud-support-engineer-%E5%B0%B1%E8%81%B7%E4%B8%80%E5%B9%B4%E6%84%9F%E6%83%B3-ccefc47c9c0?source=rss-4258f0dc9923------2)
+- [趨勢暑期實習 - 日本實習計畫](https://yysu.medium.com/%E8%B6%A8%E5%8B%A2%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92-%E6%97%A5%E6%9C%AC%E5%AF%A6%E7%BF%92%E8%A8%88%E7%95%AB-c1557c031fe4?source=rss-4258f0dc9923------2)
+- [KKStream SQA Intern 心得分享 (Web automation test)](https://medium.com/kkstream/kkstream-sqa-intern-%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB-web-automation-test-c73151f9e986?source=rss-4258f0dc9923------2)
+- [KKStream SQA intern 面試分享](https://yysu.medium.com/kkbox-sqa-intern-%E9%9D%A2%E8%A9%A6%E5%88%86%E4%BA%AB-427eba5148be?source=rss-4258f0dc9923------2)
 <!-- BLOG-POST-LIST:END -->
 
 
