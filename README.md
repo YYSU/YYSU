@@ -8,8 +8,6 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 💬  Ask me about **How to apply for internship in tech company**
 
 
-📄  Know about my experiences [https://drive.google.com/file/d/1trBfPn-NDTY4-b_Y0gPcpuQ2S0TNF76Q/view?usp=sharing](https://drive.google.com/file/d/1trBfPn-NDTY4-b_Y0gPcpuQ2S0TNF76Q/view?usp=sharing)
-
 <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-yysu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yysu/)](https://www.linkedin.com/in/yysu/) 
