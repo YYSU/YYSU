@@ -3,7 +3,7 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 
 🌱  I’m currently learning **Express.js and MongoDB**
 
-📝  I regularly write articles on [Medium](Medium)
+📝  I regularly write articles on [Medium](https://medium.com/@yysu)
 
 💬  Ask me about **How to apply for internship in tech company**
 
