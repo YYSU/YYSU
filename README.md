@@ -51,17 +51,18 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## AWS Certificated
 
 ![AWS Certified SysOps Administrator – Associate](https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20Associate-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws)
+
+
+## Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <details>
   <summary>Some of my Github Stats :computer:</summary>
