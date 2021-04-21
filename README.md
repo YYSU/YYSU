@@ -26,7 +26,10 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 ![K8s](https://img.shields.io/badge/-kubernetes-%231a202c?style=flat-square&logo=kubernetes)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-FCA121?style=flat-square&logo=amazon-aws)
 
+# Blog posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## AWS Certificated
 
