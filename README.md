@@ -5,7 +5,7 @@ I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long
 
 📝  I regularly write articles on [Medium](https://medium.com/@yysu)
 
-💬  Ask me about **How to apply for internship in tech company**
+💬  Ask me about **How to apply for internship in tech company** or **AWS**
 
 
 <br/>
