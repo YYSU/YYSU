@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Josh, a passionate coder, and enthusiastic Software Developer who has a long record of developing, implementing and testing software to meet project requirements. I can function effectively in an environment that is constantly evolving due to technological advances.
+I'm Jim, a passionate coder, and enthusiastic Software Developer who has a long record of developing, implementing and testing software to meet project requirements. I can function effectively in an environment that is constantly evolving due to technological advances.
 
 🌱  I’m currently learning **Express.js and MongoDB**
 
