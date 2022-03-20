@@ -13,7 +13,7 @@ I'm Jim, a passionate coder and enthusiastic Software Developer who has a long r
 [![Linkedin Badge](https://img.shields.io/badge/-yysu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yysu/)](https://www.linkedin.com/in/yysu/) 
 [![Medium Badge](https://img.shields.io/badge/-@yysu-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@yysu/)](https://medium.com/@yysu)
 
-
+[![Latest blog post workflow](https://github.com/yysu/YYSU/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/yysu/YYSU/actions/workflows/blog-post-workflow.yml)
 
 ## Languages and Tools
 
