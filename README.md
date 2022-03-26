@@ -53,7 +53,7 @@ I'm Jim, a passionate coder and enthusiastic Software Developer who has a long r
 ![AWS Certified SysOps Administrator – Associate](https://img.shields.io/badge/AWS%20Certified%20SysOps%20Administrator%20Associate-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS%20Certified%20Developer%20Associate-232F3E?style=flat-square&logo=amazon-aws)
 ![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=flat-square&logo=amazon-aws)
-
+![AWS Certified DevOps Engineer – Professional](https://img.shields.io/badge/AWS%20Certified%20DevOps%20Engineer%20Professional-232F3E?style=flat-square&logo=amazon-aws)
 
 ## Blog posts
 
