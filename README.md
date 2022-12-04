@@ -1,5 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm Jim, a passionate coder and enthusiastic Software Developer who has a long record of developing, implementing and testing software to meet project requirements. I can function effectively in an environment that is constantly evolving due to technological advances.
 
 🌱  I’m currently learning **Django and PostgreSQL**
 
@@ -15,7 +14,7 @@ I'm Jim, a passionate coder and enthusiastic Software Developer who has a long r
 
 [![Latest blog post workflow](https://github.com/yysu/YYSU/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/yysu/YYSU/actions/workflows/blog-post-workflow.yml)
 
-## Languages and Tools
+## Skills
 
 **Backend**
 - FastAPI 
